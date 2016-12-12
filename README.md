@@ -11,7 +11,7 @@ This is a set of projects I'm working on as part of [Free Code Camp](http://www.
 
 ### Intermediate Front End Development Projects
 
-- [ ] Build a Random Quote Machine | [Requirements](http://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Demo]() | [Source]()
+- [x] Build a Random Quote Machine | [Requirements](http://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Demo](http://random-quote.surge.sh/) | [Source]()
 - [ ] Show the Local Weather | [Requirements](http://www.freecodecamp.com/challenges/show-the-local-weather) | [Demo]() | [Source]()
 - [ ] Build a Wikipedia Viewer | [Requirements](http://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Demo]() | [Source]()
 - [ ] Use the Twitch.tv JSON API | [Requirements](http://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) | [Demo]() | [Source]()
