@@ -1,5 +1,6 @@
 
 import React, {Component} from 'react';
+import FontIcon from 'material-ui/FontIcon';
 import 'whatwg-fetch';
 import Paper from 'material-ui/Paper'
 import NavigationChevronRight from 'material-ui/svg-icons/navigation/chevron-right';
